@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hansd\\CORE\\School\\IT2\\ØVELSE\\Random\\Mandelbrot Set\\Mandelbroth Set.csproj": {}
+    "C:\\Users\\hansd\\CORE\\School\\IT2\\ØVELSE\\Random\\Mandelbrot Set Clone\\Mandelbrot\\Mandelbroth Set.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hansd\\CORE\\School\\IT2\\ØVELSE\\Random\\Mandelbrot Set\\Mandelbroth Set.csproj": {
+    "C:\\Users\\hansd\\CORE\\School\\IT2\\ØVELSE\\Random\\Mandelbrot Set Clone\\Mandelbrot\\Mandelbroth Set.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hansd\\CORE\\School\\IT2\\ØVELSE\\Random\\Mandelbrot Set\\Mandelbroth Set.csproj",
+        "projectUniqueName": "C:\\Users\\hansd\\CORE\\School\\IT2\\ØVELSE\\Random\\Mandelbrot Set Clone\\Mandelbrot\\Mandelbroth Set.csproj",
         "projectName": "Mandelbroth Set",
-        "projectPath": "C:\\Users\\hansd\\CORE\\School\\IT2\\ØVELSE\\Random\\Mandelbrot Set\\Mandelbroth Set.csproj",
+        "projectPath": "C:\\Users\\hansd\\CORE\\School\\IT2\\ØVELSE\\Random\\Mandelbrot Set Clone\\Mandelbrot\\Mandelbroth Set.csproj",
         "packagesPath": "C:\\Users\\hansd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hansd\\CORE\\School\\IT2\\ØVELSE\\Random\\Mandelbrot Set\\obj\\",
+        "outputPath": "C:\\Users\\hansd\\CORE\\School\\IT2\\ØVELSE\\Random\\Mandelbrot Set Clone\\Mandelbrot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

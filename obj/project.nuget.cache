@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i8Q6OFOLYb4=",
+  "dgSpecHash": "qjhMpk8A2Rs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hansd\\CORE\\School\\IT2\\ØVELSE\\Random\\Mandelbrot Set\\Mandelbroth Set.csproj",
+  "projectFilePath": "C:\\Users\\hansd\\CORE\\School\\IT2\\ØVELSE\\Random\\Mandelbrot Set Clone\\Mandelbrot\\Mandelbroth Set.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hansd\\.nuget\\packages\\raylib-cs\\7.0.0\\raylib-cs.7.0.0.nupkg.sha512"
   ],

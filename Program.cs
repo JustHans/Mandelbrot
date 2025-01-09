@@ -10,7 +10,7 @@ public static class MainClass{
     public static float yoffset = 0;
 
     public static void Main(){
-        InitWindow(1000,1000, "Mandelbroth set");
+        InitWindow(1000,1000, "Mandelbrot set");
 
         while(!WindowShouldClose()){
             BeginDrawing();
